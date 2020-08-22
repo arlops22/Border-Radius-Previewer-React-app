@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App for create differents kinds of shapes changing css properties. When your shape is done you can copy it to clipboard and use.
 
 ## Available Scripts
 
