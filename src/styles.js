@@ -64,7 +64,8 @@ export const Button = styled.button `
     cursor: pointer;
     width: 100%;
     border: none;
-    background-color: #DF1619;
+    background: linear-gradient(-90deg, #df1619 50%, #4a6c6f 100%);
+    background-size: 200% auto;
     border-radius: 5px;
     padding: 10px 0;
     margin-top: 1rem;
@@ -73,6 +74,6 @@ export const Button = styled.button `
     transition: .2s;
 
     &:hover {
-        background-color: #eb3336;
+        background-position: right center;
     }
 `;
